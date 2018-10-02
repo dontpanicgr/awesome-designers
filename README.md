@@ -9,21 +9,12 @@ I made this list because I wanted to have a list of extraordinary designers I sh
 
 ### List
 
-**Name:** Jony Ive   
-**Links:** [📜 Biography](https://en.wikipedia.org/wiki/Jony_Ive)  [🔮 Work](https://www.apple.com/leadership/jonathan-ive/)    
-**Tags:** industrial, product, apple  
 
-⸺
-
-**Name:** Dieter Rams    
-**Links:** [📜 Biography](https://en.wikipedia.org/wiki/Dieter_Rams) [🔮 Work](https://www.vitsoe.com/eu/about/good-design)     
-**Tags:** product, industrial, simplicity, braun   
-
-⸺
-
-**Name:** Christoph Niemann   
-**Links:** [📜 Biography](https://en.wikipedia.org/wiki/Christoph_Niemann) [🔮 Work](http://www.christophniemann.com/)     
-**Tags:** graphic, illustration, cover   
+| 🎨 Name | 📜 Biography | 🔮 Work | 🔰 Tags |
+| ---- | --------- | ---- | ---- | 
+| Jony Ive | [Link¹](https://en.wikipedia.org/wiki/Jony_Ive) | [Link¹](https://www.apple.com/leadership/jonathan-ive/) | ⸺ |
+| Dieter Rams | [Link¹](https://en.wikipedia.org/wiki/Dieter_Rams), [Link²](https://www.artsy.net/artist/dieter-rams) | [Link¹](https://www.vitsoe.com/eu/about/good-design) | ⸺ |
+| Jony Ive | [Link¹](https://en.wikipedia.org/wiki/Christoph_Niemann) | [Link¹](http://www.christophniemann.com/) | ⸺ |
 
 
 
