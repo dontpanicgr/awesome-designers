@@ -11,8 +11,8 @@ This is my ```biased``` list of extraordinary designers. If you know an extraord
 ### List
 
 
-| 🎨 Name | 📜 Biography | 🔮 Work | 🔰 Tags |
-| ---- | --------- | ---- | ---- | 
+|😎 Designer | 📜 Biography | 🔮 Work | 🔰 Tags |
+| ------- | ------- | ------- | ------- | 
 | Jony Ive | [Link¹](https://en.wikipedia.org/wiki/Jony_Ive) | [Link¹](https://www.apple.com/leadership/jonathan-ive/) | ⸺ |
 | Dieter Rams | [Link¹](https://en.wikipedia.org/wiki/Dieter_Rams), [Link²](https://www.artsy.net/artist/dieter-rams) | [Link¹](https://www.vitsoe.com/eu/about/good-design) | ⸺ |
 | Jony Ive | [Link¹](https://en.wikipedia.org/wiki/Christoph_Niemann) | [Link¹](http://www.christophniemann.com/) | ⸺ |
